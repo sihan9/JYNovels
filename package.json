@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sihan9/JYNovels/issues"
   },
-  "homepage": "https://github.com/sihan9/JYNovels#readme"
+  "homepage": "https://github.com/sihan9/JYNovels#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
 }
